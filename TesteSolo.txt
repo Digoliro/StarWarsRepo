@@ -1,5 +1,7 @@
 Esse é um teste simples, para verificar se eu sei o que estou fazendo
 
 Boa sorte pra mim..
-a
+
 Nossa, isso que é um conflito de Branchs... Wow
+
+Continuando os testes solo, estou começando uma nova Branch para verificar como as coisas funcionam e seus conflitos
